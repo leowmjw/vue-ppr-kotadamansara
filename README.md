@@ -1,2 +1,18 @@
-# vue-ppr-kotadamansara
-VueJS Demo of Dynamic Story / Issue of PPR Kota Damansara.  Mix of Content.ly; Roots, Netlify, GraphQL to Join-up data from PopIt, Alaveteli, GeoJSON, Aduanku, PDF.js CKAN data
+# pardocs-structure
+
+> Nice UI for Structuring Raw JSON output from pardocs code
+
+## Build Setup
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+```
+
+For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
